@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hutro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hutro\\.nuget\\packages"
+    ]
+  }
+}
